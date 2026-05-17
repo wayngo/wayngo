@@ -8,7 +8,7 @@ active development team officer @ [software and computer engineering society](ht
 ##  focusing on
 
 - building new projects
-- participating in hackathons
+- winning hackathons
 - leetcoding
 
 
