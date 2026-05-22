@@ -1,6 +1,5 @@
 # hello im wayne
 
-software engineering intern @ hunter industries 
 
 incoming junior studying software engineering @ san jose state university
 
