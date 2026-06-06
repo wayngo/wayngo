@@ -13,7 +13,6 @@ active development team officer @ [software and computer engineering society](ht
 - leetcoding
 
 
-## Connect With Me
+## more about me
 
-- Portfolio: [waynengo.me](https://waynengo.me)
-- LinkedIn: [linkedin.com/in/wayne-ngo](https://linkedin.com/in/wayne-ngo)
+ [portfolio](https://waynengo.me) - [linkedin](https://linkedin.com/in/wayne-ngo)
