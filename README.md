@@ -1,7 +1,7 @@
 # hello im wayne
 
 
-current junior studying software engineering @ san jose state university
+studying software engineering @ san jose state university
 
 active development team officer @ [software and computer engineering society](https://sce.sjsu.edu/)
 ##  focusing on
