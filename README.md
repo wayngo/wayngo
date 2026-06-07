@@ -8,8 +8,8 @@ software engineering intern - AI platforms team @ veeam software | June 2026 - S
 active development team officer @ [software and computer engineering society](https://sce.sjsu.edu/)
 ##  focusing on
 
-- building new projects
-- winning hackathons
+- building projects
+- competing in hackathons
 - leetcoding
 
 
