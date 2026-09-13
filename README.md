@@ -2,7 +2,7 @@
 
 junior in software engineering @ sjsu
 
-ai engineering intern @ veeam / securitiai | June 2026 - September 2026
+SWE intern @ Veeam / SecuritiAI | June 2026 - September 2026
 
 development team officer @ [software and computer engineering society](https://sce.sjsu.edu/)
 ##  focusing on
